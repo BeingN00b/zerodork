@@ -23,7 +23,7 @@ Example:
 python3 zerodork.py -u example.com --output results.txt --threads 10
 
 📦 Installation:
-git clone https://github.com/<your-username>/zerodork.git
+git clone https://github.com/BeingN00b/zerodork.git
 cd zerodork
 make install
 
